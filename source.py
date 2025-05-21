@@ -7,7 +7,7 @@ import torch
 # Initialize legal sources
 LEGAL_RESOURCES = {
     'web_sources': ['https://indiankanoon.org/', 'https://www.scconline.com/blog/'],
-    'pdf_paths': ['/path/to/legal_code.pdf', '/path/to/case_law.pdf']
+    'pdf_paths':'20240716890312078.pdf'
 }
 
 
